@@ -18,7 +18,7 @@ public class CST {
         int[] tipoHorario = new int[100];
         String[] horaSalidaReal = new String[100];
         String[] fechaRegistro = new String[100];
-        String[] dniVirtual = {"71642745","71642747"};
+        String[] dniVirtual = {"71642745","71642747","99999999"};
 
         do {
             System.out.println("Menú Principal:");
